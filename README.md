@@ -12,7 +12,7 @@ For `train.csv` and `test.csv`:
 `sequence`: Wildtype protein sequence.  
 `mutant_seq`: Mutated protein sequence.  
 
-For `tm.csv`:
+For `tm.csv`:  
 `PDB`: PDB ID code, get widetype 3D structure from `https://files.rcsb.org/download/{pdb_id}.pdb`.  
 `WT`: Wildtype amino acid.  
 `position`: Resiude number of mutation in `sequence`.  
