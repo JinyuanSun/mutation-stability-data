@@ -21,6 +21,7 @@ For `tm.csv`:
 `sequence`: Wildtype protein sequence.  
 `mutant_seq`: Mutated protein sequence.  
 
-# To predict mutation ∆∆G
+## To predict mutation ∆∆G
 
+A tool designed for enzyme stability prediction: 
 [DDGscan](https://github.com/JinyuanSun/DDGScan)
