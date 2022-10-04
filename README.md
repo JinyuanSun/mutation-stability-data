@@ -37,7 +37,10 @@ The V1 data was first released for kaggle competition [novozymes-enzyme-stabilit
 `wt_seq`:  Wildtype protein sequence.  
 `mut_seq`:   Wildtype protein sequence.  
 `ddG`: Experimentally measured ∆∆G(folding), positive means more stable.  
-`group`: For K-fold CV. The `test.csv` does not have this.
+`group`: For K-fold CV. The `test.csv` does not have this.  
+
+Sorry for the inconsistent naming of columns. Time has changed me.  
+The data stored outside `v1` and `v2` is kept for some kaggle notebooks that already used this data.  
 
 ## To predict mutation ∆∆G
 
