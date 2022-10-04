@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+deepddg/
 eggs/
 .eggs/
 lib/
@@ -127,3 +128,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
